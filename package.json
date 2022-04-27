@@ -18,7 +18,7 @@
   "author": "Yuri Dirickson",
   "license": "Apache 2.0",
   "devDependencies": {
-    "grunt": "^1.1.0",
+    "grunt": "^1.5.2",
     "grunt-contrib-jasmine": "^2.1.0"
   }
 }
