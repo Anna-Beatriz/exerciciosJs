@@ -19,6 +19,6 @@
   "license": "Apache 2.0",
   "devDependencies": {
     "grunt": "^1.1.0",
-    "grunt-contrib-jasmine": "^2.1.0"
+    "grunt-contrib-jasmine": "^4.0.0"
   }
 }
